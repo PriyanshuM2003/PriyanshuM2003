@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer | Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshum2003&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshum2003" /> </p>
-
-<p align="left"> <a href="https://github.com/PriyanshuM2003><img src="https://github.com/PriyanshuM2003?username=priyanshum2003" alt="priyanshum2003" /></a> </p>
-
 - 👯 I’m looking to collaborate on **on any project which solves any real-life problem**
 
 <h3 align="left">Connect with me:</h3>
